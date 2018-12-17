@@ -2,12 +2,19 @@
 
 
 #######hello world
+
 ######hello world
+
 #####hello world
+
 ####hello world
+
 ###Hello World
+
 ##hello world
+
 #hello world
+
 hello world
 
 * hello world
@@ -62,9 +69,13 @@ This is [an example](https://surpeakzhang.github.io/ "Title") inline link.
 
 
 *hello world*
+
 _hello world_
+
 **hello world**
+
 __hello world__
+
 use the `print()` function
 
 \*literal asterisks\*
